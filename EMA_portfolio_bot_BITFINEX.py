@@ -14,6 +14,7 @@ import pandas as pd
 import numpy
 import math
 
+print("This is a test for GIT")
 
 last_cross_tracker = 0
 #Buy or Sell
